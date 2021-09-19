@@ -1,15 +1,15 @@
 <?php
 /**
- * Author: 李硕
+ * Author: 马文涛
  * Email: kezuo@foxmail.com
  * Date: 2021/9/9
  * Time: 15:41
  */
 
-namespace lishuo\oss\storage;
+namespace mwt\oss\storage;
 
 
-use lishuo\oss\exception\ConfigException;
+use mwt\oss\exception\ConfigException;
 
 class StorageConfig
 {

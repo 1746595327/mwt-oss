@@ -6,7 +6,7 @@
  * Time: 15:34
  */
 
-namespace lishuo\oss\exception;
+namespace mwt\oss\exception;
 
 
 class NonsupportStorageTypeException extends \Exception

@@ -6,15 +6,15 @@
  * Time: 15:48
  */
 
-namespace lishuo\oss\storage\tencent;
+namespace mwt\oss\storage\tencent;
 
 
 use Qcloud\Cos\Client;
-use lishuo\oss\exception\ConfigException;
-use lishuo\oss\response\DeleteResponse;
-use lishuo\oss\response\PutResponse;
-use lishuo\oss\storage\ICloudStorage;
-use lishuo\oss\storage\StorageConfig;
+use mwt\oss\exception\ConfigException;
+use mwt\oss\response\DeleteResponse;
+use mwt\oss\response\PutResponse;
+use mwt\oss\storage\ICloudStorage;
+use mwt\oss\storage\StorageConfig;
 
 class Tencent implements ICloudStorage
 {

@@ -1,16 +1,16 @@
 <?php
 /**
- * Author: 李硕
+ * Author: 马文涛
  * Email: kezuo@foxmail.com
  * Date: 2021/9/9
  * Time: 15:40
  */
 
-namespace lishuo\oss\storage;
+namespace mwt\oss\storage;
 
 
-use lishuo\oss\response\DeleteResponse;
-use lishuo\oss\response\PutResponse;
+use mwt\oss\response\DeleteResponse;
+use mwt\oss\response\PutResponse;
 
 interface ICloudStorage
 {

@@ -6,17 +6,17 @@
  * Time: 15:45
  */
 
-namespace lishuo\oss\storage\aliyun;
+namespace mwt\oss\storage\aliyun;
 
 
 use OSS\Core\OssException;
 use OSS\Model\ObjectListInfo;
 use OSS\OssClient;
-use lishuo\oss\exception\ConfigException;
-use lishuo\oss\response\DeleteResponse;
-use lishuo\oss\response\PutResponse;
-use lishuo\oss\storage\ICloudStorage;
-use lishuo\oss\storage\StorageConfig;
+use mwt\oss\exception\ConfigException;
+use mwt\oss\response\DeleteResponse;
+use mwt\oss\response\PutResponse;
+use mwt\oss\storage\ICloudStorage;
+use mwt\oss\storage\StorageConfig;
 
 class Aliyun implements ICloudStorage
 {
