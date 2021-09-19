@@ -6,7 +6,7 @@
  * Time: 15:35
  */
 
-namespace lishuo\oss\response;
+namespace mwt\oss\response;
 
 
 class DeleteResponse

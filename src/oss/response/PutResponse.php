@@ -6,7 +6,7 @@
  * Time: 15:36
  */
 
-namespace lishuo\oss\response;
+namespace mwt\oss\response;
 
 
 class PutResponse
