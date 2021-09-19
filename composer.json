@@ -11,7 +11,7 @@
         "php",
         "web",
         "oss",
-        "cos",
+        "cos"
     ],
     "minimum-stability": "stable",
     "require": {
