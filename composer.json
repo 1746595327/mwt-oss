@@ -1,7 +1,7 @@
 {
     "name": "mwt/oss-sdk-all",
     "description": "Alibaba cloud, Tencent cloud, qiniu cloud, object storage",
-    "homepage": "https://github.com/1746595327/mwt-oss",
+    "homepage": "https://github.com/1746595327/mwt-oss-all",
     "type": "library",
     "license": "MIT",
     "authors": [
