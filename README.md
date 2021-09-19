@@ -12,7 +12,7 @@ Supper quick use Aliyun OSS or Tencent COS or Qiniu Koa to get、put、delete Ob
 
 ```php
 
-composer require mwt/oss-sdk
+composer require mwt/oss-sdk-all
 
 ```
 
