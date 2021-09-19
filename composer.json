@@ -11,9 +11,23 @@
         }
     ],
     "keywords": [
-        "php"
+        "php",
+        "web",
+        "oss",
+        "cos",
+        "koa"
     ],
-    "require-dev": {
-        "php": ">=5.3.3"
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0",
+        "qcloud/cos-sdk-v5": ">=2.0",
+        "aliyuncs/oss-sdk-php": "^2.4.0",
+        "phpunit/phpunit": "^5.0|^6.0",
+        "qiniu/php-sdk": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "mwt\\": "src"
+        }
     }
 }
