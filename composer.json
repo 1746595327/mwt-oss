@@ -17,14 +17,8 @@
         "cos",
         "koa"
     ],
-    "require": {
-        "php": ">=5.3.3"
-    },
     "require-dev": {
-        "qcloud/cos-sdk-v5": ">=2.0",
-        "aliyuncs/oss-sdk-php": "^2.4.0",
-        "phpunit/phpunit": "^5.0|^6.0",
-        "qiniu/php-sdk": "^7.3"
+        "php": ">=5.3.3"
     },
     "autoload": {
         "psr-4": {
