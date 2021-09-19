@@ -1,9 +1,6 @@
 {
     "name": "mwt/oss-sdk",
-    "description": "Alibaba cloud, Tencent cloud, qiniu cloud, object storage",
     "homepage": "https://github.com/1746595327/mwt-oss",
-    "type": "library",
-    "license": "MIT",
     "authors": [
         {
             "name": "mwt-oss",
@@ -15,7 +12,6 @@
         "web",
         "oss",
         "cos",
-        "koa"
     ],
     "minimum-stability": "stable",
     "require": {
@@ -24,10 +20,5 @@
         "aliyuncs/oss-sdk-php": "^2.4.0",
         "phpunit/phpunit": "^5.0|^6.0",
         "qiniu/php-sdk": "^7.3"
-    },
-    "autoload": {
-        "psr-4": {
-            "mwt\\": "src"
-        }
     }
 }
