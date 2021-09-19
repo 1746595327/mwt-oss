@@ -1,13 +1,13 @@
 {
-    "name": "lishuo/oss-sdk",
+    "name": "mwt/oss-sdk",
     "description": "Alibaba cloud, Tencent cloud, qiniu cloud, object storage",
-    "homepage": "https://github.com/china-li-shuo/oss-sdk",
+    "homepage": "https://github.com/mwt/oss-sdk",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "china-li-shuo",
-            "email": "676050059@qq.com"
+            "name": "mwt",
+            "email": "1746595327@qq.com"
         }
     ],
     "keywords": [
