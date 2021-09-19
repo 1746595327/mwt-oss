@@ -6,7 +6,7 @@
  * Time: 9:03
  */
 
-namespace mwt\oss\exception;
+namespace lishuo\oss\exception;
 
 
 class ConfigException extends \Exception

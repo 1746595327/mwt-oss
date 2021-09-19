@@ -19,8 +19,8 @@ composer require china-li-shuo/oss-sdk
 ## example
 
 ```php
-use mwt\oss\Manager;
-use mwt\oss\storage\StorageConfig;
+use lishuo\oss\Manager;
+use lishuo\oss\storage\StorageConfig;
 
     // string $appId, string $appKey, string $region
     $config = new StorageConfig("控制台查看获取", "控制台查看获取", "七牛云不需要配置这个参数，留空字符串");

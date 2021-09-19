@@ -6,14 +6,14 @@
  * Time: 15:47
  */
 
-namespace mwt\oss\storage\qiniu;
+namespace lishuo\oss\storage\qiniu;
 
 
-use mwt\oss\exception\ConfigException;
-use mwt\oss\response\DeleteResponse;
-use mwt\oss\response\PutResponse;
-use mwt\oss\storage\ICloudStorage;
-use mwt\oss\storage\StorageConfig;
+use lishuo\oss\exception\ConfigException;
+use lishuo\oss\response\DeleteResponse;
+use lishuo\oss\response\PutResponse;
+use lishuo\oss\storage\ICloudStorage;
+use lishuo\oss\storage\StorageConfig;
 use Qiniu\Auth;
 use Qiniu\Storage\BucketManager;
 use Qiniu\Storage\UploadManager;

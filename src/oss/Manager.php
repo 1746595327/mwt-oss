@@ -1,17 +1,17 @@
 <?php
 /**
- * Author: 马文涛
+ * Author: 李硕
  * Email: kezuo@foxmail.com
  * Date: 2021/8/31
  * Time: 15:59
  */
 
-namespace mwt\oss;
+namespace lishuo\oss;
 
-use mwt\oss\exception\NonsupportStorageTypeException;
-use mwt\oss\storage\aliyun\Aliyun;
-use mwt\oss\storage\qiniu\Qiniu;
-use mwt\oss\storage\tencent\Tencent;
+use lishuo\oss\exception\NonsupportStorageTypeException;
+use lishuo\oss\storage\aliyun\Aliyun;
+use lishuo\oss\storage\qiniu\Qiniu;
+use lishuo\oss\storage\tencent\Tencent;
 
 class Manager
 {
